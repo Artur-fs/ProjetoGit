@@ -1,1 +1,2 @@
-Aprendendo a usar o GIT! :)
+Aprendendo a usar o Git! :)
+Isto é uma alteração.
